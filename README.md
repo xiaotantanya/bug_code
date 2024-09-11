@@ -8,3 +8,4 @@
    ![image](https://github.com/user-attachments/assets/a1053901-05ab-4dcd-a6cc-2232e33d5145)
    ![image](https://github.com/user-attachments/assets/e9e5a975-7aec-4d7b-b701-1c9bbeffe7e2)
 
+3. 相同的pytorch数据，在同一块gpu上进行相同操作，得到的结果不一样。
